@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-WtlApplication<asu>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.workshop.WtlApplication",
+      "projectName": "asu",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
